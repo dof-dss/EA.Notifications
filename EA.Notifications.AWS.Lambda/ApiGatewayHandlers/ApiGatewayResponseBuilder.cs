@@ -30,7 +30,7 @@ namespace EA.Notifications.AWS.Lambda.ApiGatewayHandlers
             {
                 Headers = Headers,
                 StatusCode = (int)statusCode,
-                Body = responseContent != null ? JsonConvert.SerializeObject(responseContent, JsonSettings) : string.Empty
+                Body = responseContent != null ? responseContent.ToString() : string.Empty
             };
         }
     }
