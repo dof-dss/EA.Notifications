@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EA.Notifications", "EA.Noti
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EA.Notifications.Dispatcher", "EA.Notifications.Dispatcher\EA.Notifications.Dispatcher.csproj", "{1182FAAD-CB66-464C-8241-1A46E94924CE}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EA.Notifications.AWS.Lambda", "EA.Notifications.AWS.Lambda\EA.Notifications.AWS.Lambda.csproj", "{F5E11444-D4D4-48E2-85F4-45122364479F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,18 @@ Global
 		{1182FAAD-CB66-464C-8241-1A46E94924CE}.Release|iPhone.Build.0 = Release|Any CPU
 		{1182FAAD-CB66-464C-8241-1A46E94924CE}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
 		{1182FAAD-CB66-464C-8241-1A46E94924CE}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{F5E11444-D4D4-48E2-85F4-45122364479F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5E11444-D4D4-48E2-85F4-45122364479F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5E11444-D4D4-48E2-85F4-45122364479F}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{F5E11444-D4D4-48E2-85F4-45122364479F}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{F5E11444-D4D4-48E2-85F4-45122364479F}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{F5E11444-D4D4-48E2-85F4-45122364479F}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{F5E11444-D4D4-48E2-85F4-45122364479F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5E11444-D4D4-48E2-85F4-45122364479F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5E11444-D4D4-48E2-85F4-45122364479F}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{F5E11444-D4D4-48E2-85F4-45122364479F}.Release|iPhone.Build.0 = Release|Any CPU
+		{F5E11444-D4D4-48E2-85F4-45122364479F}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{F5E11444-D4D4-48E2-85F4-45122364479F}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
