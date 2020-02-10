@@ -1,2 +1,2 @@
 # EA.Notifications
- PoC Notifications app with Xamarin Forms
+Collection of Proof of Concept (PoC) apps to highlight push notification functionality.
