@@ -58,6 +58,7 @@ namespace EA.Notifications.AWS.Lambda.Push
             }
             catch (WebPushException ex)
             {
+                //TODO Handle exceptions with more elegance
                 switch (ex.StatusCode)
                 {
                     case HttpStatusCode.BadRequest:

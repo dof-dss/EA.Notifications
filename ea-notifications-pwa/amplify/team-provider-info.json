@@ -1,0 +1,15 @@
+{
+    "beta": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-ea-notifications-pwa-beta-100421-authRole",
+            "UnauthRoleArn": "arn:aws:iam::111094818217:role/amplify-ea-notifications-pwa-beta-100421-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::111094818217:role/amplify-ea-notifications-pwa-beta-100421-authRole",
+            "Region": "eu-west-2",
+            "DeploymentBucketName": "amplify-ea-notifications-pwa-beta-100421-deployment",
+            "UnauthRoleName": "amplify-ea-notifications-pwa-beta-100421-unauthRole",
+            "StackName": "amplify-ea-notifications-pwa-beta-100421",
+            "StackId": "arn:aws:cloudformation:eu-west-2:111094818217:stack/amplify-ea-notifications-pwa-beta-100421/b6e13900-4bec-11ea-8734-021679f87d94",
+            "AmplifyAppId": "d2twh94khkx9m3"
+        }
+    }
+}
