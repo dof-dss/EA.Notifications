@@ -5,7 +5,7 @@ Xamarin Forms application containing Push implementations for Android and iOS. C
 ## ea-notifications-pwa
 Progressive Web App in Angular. Uses service worker to receive push notifications. Leverages Amplify to provision hosting in AWS.
 ## EA.Notifications.AWS.Lambda
-Serverless function to allow PWA to subscribe for notifications and an API to send push meessages to subscribers.
+Serverless function to allow PWA to subscribe for notifications and an API to send push messages to subscribers.
 ## EA.Notifications.Dispatcher
 Console app to allow notifications to be sent via Azure Notification Hub.
 
