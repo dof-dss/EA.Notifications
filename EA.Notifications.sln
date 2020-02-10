@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.352
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EA.Notifications.Android", "EA.Notifications\EA.Notifications.Android\EA.Notifications.Android.csproj", "{92198748-B83C-4393-8AC8-EF6978BD7FDC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EA.Notifications.Android", "EA.Notifications.Xamarin\EA.Notifications.Android\EA.Notifications.Android.csproj", "{92198748-B83C-4393-8AC8-EF6978BD7FDC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EA.Notifications.iOS", "EA.Notifications\EA.Notifications.iOS\EA.Notifications.iOS.csproj", "{7742CEBC-3E9F-4280-B701-20DA7580B5DF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EA.Notifications.iOS", "EA.Notifications.Xamarin\EA.Notifications.iOS\EA.Notifications.iOS.csproj", "{7742CEBC-3E9F-4280-B701-20DA7580B5DF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EA.Notifications", "EA.Notifications\EA.Notifications\EA.Notifications.csproj", "{3566DAFB-7C41-4882-A7D9-600FF02EF624}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EA.Notifications", "EA.Notifications.Xamarin\EA.Notifications\EA.Notifications.csproj", "{3566DAFB-7C41-4882-A7D9-600FF02EF624}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EA.Notifications.Dispatcher", "EA.Notifications.Dispatcher\EA.Notifications.Dispatcher.csproj", "{1182FAAD-CB66-464C-8241-1A46E94924CE}"
 EndProject
